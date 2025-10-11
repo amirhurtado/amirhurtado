@@ -6,11 +6,16 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
 Me apasiona crear aplicaciones modernas, escalables y bien estructuradas utilizando tecnologías actuales.  
 Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y transformar ideas en productos funcionales y de alto impacto.  
 
-📍 Pereira, Colombia  
-🖥️ Mejor web: [alapp.site](http://alapp.site)  
-🖥️ Tesis [Extension VSCode con REACT](https://github.com/LabSirius/RiscVSiriusStudio)
-📧 Email: [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)
-📞 Teléfono: +57 314 6343 928
+📍 **Pereira, Colombia** 
+
+🖥️ **Mejor web:** [alapp.site](https://alapp.site)  
+
+📘 **Desarrollo de tesis:** [Extensión VSCode con React](https://github.com/LabSirius/RiscVSiriusStudio)  
+
+📧 **Email:** [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)  
+
+📞 **Teléfono:** +57 314 6343 928
+
    
 
 ---
