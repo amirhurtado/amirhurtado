@@ -8,6 +8,7 @@ Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y t
 
 📍 Pereira, Colombia  
 🖥️ Mejor web: [alapp.site](http://alapp.site)  
+🖥️ Tesis [Extension VSCode con REACT](https://github.com/LabSirius/RiscVSiriusStudio)
 📧 Email: [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)
 📞 Teléfono: +57 314 6343 928
    
