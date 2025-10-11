@@ -7,7 +7,6 @@ Me apasiona crear aplicaciones modernas, escalables y bien estructuradas utiliza
 Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y transformar ideas en productos funcionales y de alto impacto.  
 
 📍 Pereira, Colombia  
-🚀 Actualmente trabajando en [Alapp](http://alapp.site)  
 🖥️ Mejor web: [alapp.site](http://alapp.site)  
 📧 Email: [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)
 📞 Teléfono: +57 314 6343 928
