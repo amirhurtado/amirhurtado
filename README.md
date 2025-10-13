@@ -17,9 +17,9 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
 
 | Proyecto | Descripción | Demo | Repositorio |
 | :--- | :--- | :---: | :---: |
-| **Alapp - Red Social** | Plataforma social full-stack con perfiles, posts e interacciones, construida con React, Node.js, Express y PostgreSQL. | [**Ver Web**](https://alapp.site) | [**Ver Código**](#) |
-| **Spylt - Landing Page Animada** | Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas con GSAP y un diseño responsivo. | [**Ver Web**](https://awwward-amir.vercel.app/) | [**Ver Código**](#) |
-| **RiscV Sirius Studio** | Extensión para VS Code que simula la arquitectura RISC-V, desarrollada con React como parte de mi proyecto de tesis. | — | [**Ver Código**](https://github.com/LabSirius/RiscVSiriusStudio) |
+| **Alapp - Red Social** | Plataforma social full-stack con perfiles, posts e interacciones, construida con Next, Node.js, Tailwild, TS, Zustand,  Clerk, Imagekit Prisma y PostgreSQL. | [**Ver Web**](https://alapp.site) | [**Ver Código**](#https://github.com/amirhurtado/alapp) |
+| **AwwwardAmir - Landing Page Animada** | Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas con GSAP y un diseño responsivo. | [**Ver Web**](https://awwward-amir.vercel.app/) | [**Ver Código**](https://github.com/amirhurtado/awwwardAmir) |
+| **RiscV Sirius Studio** | Extensión para VS Code que simula la arquitectura RISC-V, desarrollada con React, TS, y JS como parte de mi proyecto de tesis. | — | [**Ver Código**](https://github.com/LabSirius/RiscVSiriusStudio) |
 
 *Reemplaza los enlaces '#' con las URLs de tus repositorios.*
 
