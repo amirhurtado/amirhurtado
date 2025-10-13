@@ -33,7 +33,7 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
     </tr>
     <tr>
       <td><strong>AwwwardAmir - Landing Page Animada</strong></td>
-      <td>Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /></td>
+      <td>Landing page de una marca de bebidas, enfocada en animaciones fluidas y complejas (Fines prácticos). <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /></td>
       <td align="center"><a href="https://awwward-amir.vercel.app/"><strong>Ver Web</strong></a></td>
       <td align="center"><a href="https://github.com/amirhurtado/awwwardAmir"><strong>Ver Código</strong></a></td>
     </tr>
