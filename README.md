@@ -15,11 +15,36 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Proyectos" width="40" height="40" /> Proyectos Destacados
 
-| Proyecto | Descripción | Demo | Repositorio |
-| :--- | :--- | :---: | :---: |
-| **Alapp - Red Social** | Plataforma social full-stack con perfiles, posts e interacciones. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" alt="Node.js" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" height="24" alt="PostgreSQL" /> | [**Ver Web**](https://alapp.site) | [**Ver Código**](https://github.com/amirhurtado/alapp) |
-| **AwwwardAmir - Landing Page Animada** | Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /> | [**Ver Web**](https://awwward-amir.vercel.app/) | [**Ver Código**](https://github.com/amirhurtado/awwwardAmir) |
-| **RiscV Sirius Studio** | Extensión para VS Code que simula la arquitectura RISC-V, como parte de mi proyecto de tesis. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /> | — | [**Ver Código**](https://github.com/LabSirius/RiscVSiriusStudio) |
+<table>
+  <thead>
+    <tr>
+      <th width="20%" align="left">Proyecto</th>
+      <th width="40%" align="left">Descripción</th>
+      <th width="20%" align="center">Demo</th>
+      <th width="20%" align="center">Repositorio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Alapp - Red Social</strong></td>
+      <td>Plataforma social full-stack con perfiles, posts e interacciones. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" alt="Node.js" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" height="24" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" /> <img src="https://img.shields.io/badge/ImageKit-00B28E?style=for-the-badge&logo=imagekit&logoColor=white" alt="ImageKit" /></td>
+      <td align="center"><a href="https://alapp.site"><strong>Ver Web</strong></a></td>
+      <td align="center"><a href="https://github.com/amirhurtado/alapp"><strong>Ver Código</strong></a></td>
+    </tr>
+    <tr>
+      <td><strong>AwwwardAmir - Landing Page Animada</strong></td>
+      <td>Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="Next.js" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="24" height="24" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" /></td>
+      <td align="center"><a href="https://awwward-amir.vercel.app/"><strong>Ver Web</strong></a></td>
+      <td align="center"><a href="https://github.com/amirhurtado/awwwardAmir"><strong>Ver Código</strong></a></td>
+    </tr>
+    <tr>
+      <td><strong>RiscV Sirius Studio</strong></td>
+      <td>Extensión para VS Code que simula la arquitectura RISC-V, como parte de mi proyecto de tesis. <br><br> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></td>
+      <td align="center">—</td>
+      <td align="center"><a href="https://github.com/LabSirius/RiscVSiriusStudio"><strong>Ver Código</strong></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
