@@ -10,6 +10,8 @@ Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y t
 
 🖥️ **Red social (Full Stack Project):** [alapp.site](https://alapp.site)  
 
+🖥️ **Landing page (FronteND Project):** [https://awwward-amir.vercel.app]([https://alapp.site](https://awwward-amir.vercel.app))  
+
 📘 **Desarrollo de simulador RISCV (Full Stack Project - tesis):** [Extensión VSCode con React](https://github.com/LabSirius/RiscVSiriusStudio)  
 
 📧 **Email:** [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)  
