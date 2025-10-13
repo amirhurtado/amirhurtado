@@ -1,56 +1,50 @@
 # 👋 ¡Hola! Soy Amir Hurtado
 
-### 💻 Desarrollador Web Full Stack  
+### 💻 Desarrollador Web Full Stack
 
-Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Tecnológica de Pereira**.  
-Me apasiona crear aplicaciones modernas, escalables y bien estructuradas utilizando tecnologías actuales.  
-Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y transformar ideas en productos funcionales y de alto impacto.  
-
-📍 **Pereira, Colombia** 
-
-🖥️ **Red social (Full Stack Project):** [alapp.site](https://alapp.site)  
-
-🖥️ **Landing page (FronteND Project):** [https://awwward-amir.vercel.app]([https://alapp.site](https://awwward-amir.vercel.app))  
-
-📘 **Desarrollo de simulador RISCV (Full Stack Project - tesis):** [Extensión VSCode con React](https://github.com/LabSirius/RiscVSiriusStudio)  
-
-📧 **Email:** [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)  
-
-📞 **Teléfono:** +57 314 6343 928
-
-   
-
----
-
-### Tecnologías y Herramientas
+Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Tecnológica de Pereira**. Me apasiona crear aplicaciones modernas, escalables y bien estructuradas utilizando tecnologías actuales. Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y transformar ideas en productos funcionales y de alto impacto.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" height="36" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  <a href="mailto:amir.hurtado.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### Redes
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Proyectos" width="40" height="40" /> Proyectos Destacados
+
+| Proyecto | Descripción | Demo | Repositorio |
+| :--- | :--- | :---: | :---: |
+| **Alapp - Red Social** | Plataforma social full-stack con perfiles, posts e interacciones, construida con React, Node.js, Express y PostgreSQL. | [**Ver Web**](https://alapp.site) | [**Ver Código**](#) |
+| **Spylt - Landing Page Animada** | Landing page para una marca de bebidas, enfocada en animaciones fluidas y complejas con GSAP y un diseño responsivo. | [**Ver Web**](https://awwward-amir.vercel.app/) | [**Ver Código**](#) |
+| **RiscV Sirius Studio** | Extensión para VS Code que simula la arquitectura RISC-V, desarrollada con React como parte de mi proyecto de tesis. | — | [**Ver Código**](https://github.com/LabSirius/RiscVSiriusStudio) |
+
+*Reemplaza los enlaces '#' con las URLs de tus repositorios.*
+
+---
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Tecnologías" width="40" height="40" /> Tecnologías y Herramientas
 
 <p align="left">
-  <a href="https://github.com/amirhurtado" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-### Estadísticas de GitHub
-
+## Estadísticas de GitHub
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhurtado&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhurtado&layout=compact&theme=tokyonight&hide_border=true" />
