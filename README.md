@@ -8,9 +8,9 @@ Disfruto aprender de forma autodidacta, enfrentar nuevos desafíos técnicos y t
 
 📍 **Pereira, Colombia** 
 
-🖥️ **Mejor web:** [alapp.site](https://alapp.site)  
+🖥️ **Red social (Full Stack Project):** [alapp.site](https://alapp.site)  
 
-📘 **Desarrollo de tesis:** [Extensión VSCode con React](https://github.com/LabSirius/RiscVSiriusStudio)  
+📘 **Desarrollo de simulador RISCV (Full Stack Project - tesis):** [Extensión VSCode con React](https://github.com/LabSirius/RiscVSiriusStudio)  
 
 📧 **Email:** [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com)  
 
