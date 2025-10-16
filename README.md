@@ -49,7 +49,10 @@ Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad
         <img src="https://img.shields.io/badge/Stack_Auth-1E88E5?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Stack Auth" />
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Query" />
       </td>
-      <td align="center"><a href="https://inventory-management-amir.vercel.app/"><strong>Ver Web</strong></a></td>
+      <td align="center">
+  <a href="https://inventory-management-lilac-nine.vercel.app/"><strong>Ver Web</strong></a>
+</td>
+
       <td align="center"><a href="https://github.com/amirhurtado/inventory-management"><strong>Ver Código</strong></a></td>
     </tr>
     <tr>
