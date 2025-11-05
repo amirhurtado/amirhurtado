@@ -8,7 +8,7 @@ Paralelamente, poseo conocimientos en **Python** aplicados a proyectos pequeños
 
 <p align="left">
   <a href="mailto:amir.hurtado.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amir-evelio-hurtado-mena-3a57ab323/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
