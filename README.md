@@ -53,4 +53,4 @@ bilingual experience.
 ### Contact
 
 [amir.hurtado.m@gmail.com](mailto:amir.hurtado.m@gmail.com) ·
-[LinkedIn](https://www.linkedin.com/in/amir-evelio-hurtado-mena-3a57ab323/)
+[LinkedIn](https://www.linkedin.com/in/amir-hurtado-72166440a/)
