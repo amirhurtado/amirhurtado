@@ -4,7 +4,7 @@
 
 I build web platforms and developer tools — from government-facing systems to
 research software. Currently working at UTP, where I develop software in
-partnership with public institutions and the Sirius research group.
+partnership with public institutions.
 
 I care about clean architecture, strong typing, and interfaces that feel good to use.
 
@@ -25,7 +25,7 @@ within the Sirius UTP research group to support the Computer Architecture
 course. In use at UTP.
 `TypeScript · React · VS Code API`
 
-**Portfolio** · [repo](https://github.com/amirhurtado/me)
+**Portfolio**
 Personal site with a real-time WebGL scene, custom reactivity layer and a
 bilingual experience.
 `React · three.js · GLSL · GSAP`
